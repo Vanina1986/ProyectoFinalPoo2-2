@@ -26,7 +26,7 @@ public class Moto extends Vehiculo {
 
 	/*
 	 * Atributo privado acceso restringido. Accesible solo
-	 * de la clase que se definiendo. Utilizado para declarar
+	 * para la clase que lo esta definiendo. Utilizado para declarar
 	 * miembros que solo deben ser utlizados para la clase
 	 * 
 	 */
