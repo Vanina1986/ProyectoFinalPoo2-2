@@ -38,12 +38,12 @@ public class Concesionaria implements IConcesionariaVehiculo {
 	public void mostrarListaVehiculo() {
 		vehiculos.forEach(System.out::println);
 		/*
-		 * se modifico y se elimino el constructor(metodo que permiten creae objetos de
-		 * una clase) de la clase que tenia
-		 * //de parametro List <Vehiculo> vehiculos.
-		 * el constructor anteriormente puesto permitia crear un objeto
-		 * Concesionaria pasandole una lista ya armada de Vehiculo
-		 * , se guardaba dentro del atributo privado vehiculos
+		 * se modifico y este metodo muestra la lista
+		 * creada en el metodo crearListaVehiculo.
+		 * Para poder mostrar la lista creada se utliza:
+		 * vehiculos.forEach(System.out::println);
+		 * forEach()interfaz Iterable toma accion y ejecuta.
+		 * :: apunta println
 		 */
 
 	}
