@@ -13,7 +13,7 @@ import lombok.Getter;
 /*
  * Metodo Equals: compara los objetos por medio
  * de su codigo hash.
- * Codigo hash: es un valor enterp calculado por
+ * Codigo hash: es un valor entero calculado por
  * java a partir del estado o identidad del objeto.
  * Este valor se utiliza estructuras de datos hash
  * para facilitar la busquedad y almacenamiento
