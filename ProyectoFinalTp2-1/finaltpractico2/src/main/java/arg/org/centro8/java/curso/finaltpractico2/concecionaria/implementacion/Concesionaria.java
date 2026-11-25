@@ -60,8 +60,8 @@ public class Concesionaria implements IConcesionariaVehiculo {
 
 		/*
 		 * ifPresent imprime si el resultado existe
-		 * v(predicado:funcion o expresion que )
-		 * -> se implemanta una expresion lambda(recibe un parametro y devolvera un
+		 * v(predicado:funcion o expresion.
+		 * -> se implementa una expresion lambda(recibe un parametro y devolvera un
 		 * boolean)
 		 * si existe dentro de la lista vehiculos debera imprimir la marca
 		 * y modelo.
