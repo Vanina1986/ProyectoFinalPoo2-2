@@ -20,7 +20,7 @@ import lombok.NoArgsConstructor;
  * vacio) para la clase en tiempo de compilacion.
  * Permite crear la instancia, ejemplo en este
  * trabajo practico: en el TestConcesionaria
- * Concesionaria concesionaria=New Concesionaria;
+ * Concesionaria concesionaria=new Concesionaria;
  * y luego llamar concesionaria.crearListaVehiculo();
  */
 public class Concesionaria implements IConcesionariaVehiculo {
