@@ -12,7 +12,7 @@ public abstract class Vehiculo implements Comparable<Vehiculo> {
 	 * Clase abstracta no se puede crear objetos,
 	 * se utiliza el abstract para favorecer
 	 * la herencia.
-	 * Se implemento la interfaz Compable en la clase Abstracta
+	 * Se implemento la interfaz Comparable en la clase Abstracta
 	 * Vehiculo.
 	 */
 	private String marca;
