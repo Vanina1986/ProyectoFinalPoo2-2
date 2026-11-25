@@ -130,9 +130,9 @@ public class Concesionaria implements IConcesionariaVehiculo {
 		 * metodo mostrarVehiculoQueContieneModeloY:
 		 * este metodo mostrara que contiene el modelo
 		 * letra y
-		 * sorted con Comparator porque campo o regla ordenar
-		 * en este caso se le pide que sea por marca, modelo
-		 * precio.
+		 * sorted: devuelve un stream con los elementos
+		 * ordenados. Al no tener Argumentos ordena los
+		 * elemntos por orden natural.
 		 * System.out.prinf mostrara el texto formatedo
 		 */
 		vehiculos.stream()
