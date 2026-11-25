@@ -43,7 +43,7 @@ public class Concesionaria implements IConcesionariaVehiculo {
 		 * Para poder mostrar la lista creada se utliza:
 		 * vehiculos.forEach(System.out::println);
 		 * forEach()interfaz Iterable toma accion y ejecuta.
-		 * :: apunta println
+		 * :: apunta a println.
 		 */
 
 	}
